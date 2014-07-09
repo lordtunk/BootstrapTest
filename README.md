@@ -1,4 +1,4 @@
 BootstrapTest
 =============
 
-Testing out bootstrap along with grunt, sass, and other tech
+Testing out using git, bootstrap, grunt, sass, and other tech. Please do not laugh!
